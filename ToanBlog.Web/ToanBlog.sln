@@ -5,11 +5,15 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToanBlog.Web", "ToanBlog.Web.csproj", "{DB2C0530-795E-4206-A0C6-C30205919430}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToanBlog.Core", "..\ToanBlog.Core\ToanBlog.Core.csproj", "{64ECC51F-1AF9-4AC2-A583-BA1CFE803288}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToanBlog.Core", "..\ToanBlog.Core\ToanBlog.Core.csproj", "{64ECC51F-1AF9-4AC2-A583-BA1CFE803288}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToanBlog.Data", "..\ToanBlog.Data\ToanBlog.Data.csproj", "{69031F5B-9C18-4860-95B3-BACFFD01CC33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToanBlog.Data", "..\ToanBlog.Data\ToanBlog.Data.csproj", "{69031F5B-9C18-4860-95B3-BACFFD01CC33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToanBlog.Service", "..\ToanBlog.Service\ToanBlog.Service.csproj", "{E66C822F-CFE5-434D-9A6A-73BDBB084B4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToanBlog.Service", "..\ToanBlog.Service\ToanBlog.Service.csproj", "{E66C822F-CFE5-434D-9A6A-73BDBB084B4D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{DE6163E4-60D3-4467-9A72-167D3EC28636}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{9752EED4-7854-40FB-805E-7D5ED2361C2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,6 +40,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DB2C0530-795E-4206-A0C6-C30205919430} = {9752EED4-7854-40FB-805E-7D5ED2361C2B}
+		{64ECC51F-1AF9-4AC2-A583-BA1CFE803288} = {DE6163E4-60D3-4467-9A72-167D3EC28636}
+		{69031F5B-9C18-4860-95B3-BACFFD01CC33} = {DE6163E4-60D3-4467-9A72-167D3EC28636}
+		{E66C822F-CFE5-434D-9A6A-73BDBB084B4D} = {DE6163E4-60D3-4467-9A72-167D3EC28636}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ABB528A5-22B8-44EB-8724-B9340F4B6DBB}
