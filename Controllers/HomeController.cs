@@ -22,6 +22,7 @@ namespace ToanBlog.Controllers
 
         public IActionResult Index()
         {
+            _logger.BeginScope("d");
             return View();
         }   
 
