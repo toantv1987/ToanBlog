@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>ToanBlog.Web</AssemblyName>
+    <RootNamespace>ToanBlog.Web</RootNamespace>
   </PropertyGroup>
 
 </Project>

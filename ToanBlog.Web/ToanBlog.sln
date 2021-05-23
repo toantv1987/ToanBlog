@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToanBlog", "ToanBlog.csproj", "{DB2C0530-795E-4206-A0C6-C30205919430}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToanBlog.Web", "ToanBlog.Web.csproj", "{DB2C0530-795E-4206-A0C6-C30205919430}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToanBlog.Core", "..\ToanBlog.Core\ToanBlog.Core.csproj", "{64ECC51F-1AF9-4AC2-A583-BA1CFE803288}"
 EndProject
