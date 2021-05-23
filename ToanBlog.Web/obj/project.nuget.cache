@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "THy1pmox3Z0pPnCljoldNISUDgU+bqmiTSR1Cp83JWryZNbRZewLmHsGFXi4kH8yTM8wFQP94LxwTx7/P/jNWA==",
+  "dgSpecHash": "GXndm/natDcrEtmhgtlDT9GGISahIGxqEeHbCNUgxMOEwS3RPcgJyy0Czzgr2mSzGnyqsAgotyBmRFqYt/iL8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Desktop\\ToanBlog\\ToanBlog\\ToanBlog.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\OneDrive\\Desktop\\ToanBlog\\ToanBlog\\ToanBlog.Web\\ToanBlog.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

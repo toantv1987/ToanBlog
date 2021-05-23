@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Desktop\\ToanBlog\\ToanBlog\\ToanBlog.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Desktop\\ToanBlog\\ToanBlog\\ToanBlog.Web\\ToanBlog.csproj",
       "projectName": "ToanBlog",
-      "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\ToanBlog\\ToanBlog\\ToanBlog.csproj",
+      "projectPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\ToanBlog\\ToanBlog\\ToanBlog.Web\\ToanBlog.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\ToanBlog\\ToanBlog\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\ToanBlog\\ToanBlog\\ToanBlog.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
